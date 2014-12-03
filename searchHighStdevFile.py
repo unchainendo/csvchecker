@@ -13,6 +13,12 @@ numpy
 ＊＊
 列の指定：L71 read_column_indexの値を変える。デフォルトでは５列目
 """
+
+
+
+
+
+
 import codecs
 import sys
 import os
